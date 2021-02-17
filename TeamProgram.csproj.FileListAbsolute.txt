@@ -1,0 +1,50 @@
+C:\Users\Pavel\Desktop\Программирование\C#\Классная работа\TeamProgram\TeamProgram\bin\Debug\netcoreapp3.1\TeamProgram.exe
+C:\Users\Pavel\Desktop\Программирование\C#\Классная работа\TeamProgram\TeamProgram\bin\Debug\netcoreapp3.1\TeamProgram.deps.json
+C:\Users\Pavel\Desktop\Программирование\C#\Классная работа\TeamProgram\TeamProgram\bin\Debug\netcoreapp3.1\TeamProgram.runtimeconfig.json
+C:\Users\Pavel\Desktop\Программирование\C#\Классная работа\TeamProgram\TeamProgram\bin\Debug\netcoreapp3.1\TeamProgram.runtimeconfig.dev.json
+C:\Users\Pavel\Desktop\Программирование\C#\Классная работа\TeamProgram\TeamProgram\bin\Debug\netcoreapp3.1\TeamProgram.dll
+C:\Users\Pavel\Desktop\Программирование\C#\Классная работа\TeamProgram\TeamProgram\bin\Debug\netcoreapp3.1\TeamProgram.pdb
+C:\Users\Pavel\Desktop\Программирование\C#\Классная работа\TeamProgram\TeamProgram\obj\Debug\netcoreapp3.1\TeamProgram.csprojAssemblyReference.cache
+C:\Users\Pavel\Desktop\Программирование\C#\Классная работа\TeamProgram\TeamProgram\obj\Debug\netcoreapp3.1\TeamProgram.AssemblyInfoInputs.cache
+C:\Users\Pavel\Desktop\Программирование\C#\Классная работа\TeamProgram\TeamProgram\obj\Debug\netcoreapp3.1\TeamProgram.AssemblyInfo.cs
+C:\Users\Pavel\Desktop\Программирование\C#\Классная работа\TeamProgram\TeamProgram\obj\Debug\netcoreapp3.1\TeamProgram.csproj.CoreCompileInputs.cache
+C:\Users\Pavel\Desktop\Программирование\C#\Классная работа\TeamProgram\TeamProgram\obj\Debug\netcoreapp3.1\TeamProgram.dll
+C:\Users\Pavel\Desktop\Программирование\C#\Классная работа\TeamProgram\TeamProgram\obj\Debug\netcoreapp3.1\TeamProgram.pdb
+C:\Users\Pavel\Desktop\Программирование\C#\Классная работа\TeamProgram\TeamProgram\obj\Debug\netcoreapp3.1\TeamProgram.genruntimeconfig.cache
+C:\Users\Pavel\Desktop\Программирование\C#\Домашнее задание\Встреча 6\TeamProgram\TeamProgram\bin\Debug\netcoreapp3.1\TeamProgram.exe
+C:\Users\Pavel\Desktop\Программирование\C#\Домашнее задание\Встреча 6\TeamProgram\TeamProgram\bin\Debug\netcoreapp3.1\TeamProgram.deps.json
+C:\Users\Pavel\Desktop\Программирование\C#\Домашнее задание\Встреча 6\TeamProgram\TeamProgram\bin\Debug\netcoreapp3.1\TeamProgram.runtimeconfig.json
+C:\Users\Pavel\Desktop\Программирование\C#\Домашнее задание\Встреча 6\TeamProgram\TeamProgram\bin\Debug\netcoreapp3.1\TeamProgram.runtimeconfig.dev.json
+C:\Users\Pavel\Desktop\Программирование\C#\Домашнее задание\Встреча 6\TeamProgram\TeamProgram\bin\Debug\netcoreapp3.1\TeamProgram.dll
+C:\Users\Pavel\Desktop\Программирование\C#\Домашнее задание\Встреча 6\TeamProgram\TeamProgram\bin\Debug\netcoreapp3.1\TeamProgram.pdb
+C:\Users\Pavel\Desktop\Программирование\C#\Домашнее задание\Встреча 6\TeamProgram\TeamProgram\obj\Debug\netcoreapp3.1\TeamProgram.csprojAssemblyReference.cache
+C:\Users\Pavel\Desktop\Программирование\C#\Домашнее задание\Встреча 6\TeamProgram\TeamProgram\obj\Debug\netcoreapp3.1\TeamProgram.AssemblyInfoInputs.cache
+C:\Users\Pavel\Desktop\Программирование\C#\Домашнее задание\Встреча 6\TeamProgram\TeamProgram\obj\Debug\netcoreapp3.1\TeamProgram.AssemblyInfo.cs
+C:\Users\Pavel\Desktop\Программирование\C#\Домашнее задание\Встреча 6\TeamProgram\TeamProgram\obj\Debug\netcoreapp3.1\TeamProgram.csproj.CoreCompileInputs.cache
+C:\Users\Pavel\Desktop\Программирование\C#\Домашнее задание\Встреча 6\TeamProgram\TeamProgram\obj\Debug\netcoreapp3.1\TeamProgram.dll
+C:\Users\Pavel\Desktop\Программирование\C#\Домашнее задание\Встреча 6\TeamProgram\TeamProgram\obj\Debug\netcoreapp3.1\TeamProgram.pdb
+C:\Users\Pavel\Desktop\Программирование\C#\Домашнее задание\Встреча 6\TeamProgram\TeamProgram\obj\Debug\netcoreapp3.1\TeamProgram.genruntimeconfig.cache
+H:\Встреча 6\TeamProgram\TeamProgram\bin\Debug\netcoreapp3.1\TeamProgram.exe
+H:\Встреча 6\TeamProgram\TeamProgram\bin\Debug\netcoreapp3.1\TeamProgram.deps.json
+H:\Встреча 6\TeamProgram\TeamProgram\bin\Debug\netcoreapp3.1\TeamProgram.runtimeconfig.json
+H:\Встреча 6\TeamProgram\TeamProgram\bin\Debug\netcoreapp3.1\TeamProgram.runtimeconfig.dev.json
+H:\Встреча 6\TeamProgram\TeamProgram\bin\Debug\netcoreapp3.1\TeamProgram.dll
+H:\Встреча 6\TeamProgram\TeamProgram\bin\Debug\netcoreapp3.1\TeamProgram.pdb
+H:\Встреча 6\TeamProgram\TeamProgram\obj\Debug\netcoreapp3.1\TeamProgram.csprojAssemblyReference.cache
+H:\Встреча 6\TeamProgram\TeamProgram\obj\Debug\netcoreapp3.1\TeamProgram.AssemblyInfoInputs.cache
+H:\Встреча 6\TeamProgram\TeamProgram\obj\Debug\netcoreapp3.1\TeamProgram.AssemblyInfo.cs
+H:\Встреча 6\TeamProgram\TeamProgram\obj\Debug\netcoreapp3.1\TeamProgram.csproj.CoreCompileInputs.cache
+H:\Встреча 6\TeamProgram\TeamProgram\obj\Debug\netcoreapp3.1\TeamProgram.dll
+H:\Встреча 6\TeamProgram\TeamProgram\obj\Debug\netcoreapp3.1\TeamProgram.pdb
+H:\Встреча 6\TeamProgram\TeamProgram\obj\Debug\netcoreapp3.1\TeamProgram.genruntimeconfig.cache
+D:\Встреча 6\TeamProgram\TeamProgram\bin\Debug\netcoreapp3.1\TeamProgram.exe
+D:\Встреча 6\TeamProgram\TeamProgram\bin\Debug\netcoreapp3.1\TeamProgram.deps.json
+D:\Встреча 6\TeamProgram\TeamProgram\bin\Debug\netcoreapp3.1\TeamProgram.runtimeconfig.json
+D:\Встреча 6\TeamProgram\TeamProgram\bin\Debug\netcoreapp3.1\TeamProgram.runtimeconfig.dev.json
+D:\Встреча 6\TeamProgram\TeamProgram\bin\Debug\netcoreapp3.1\TeamProgram.dll
+D:\Встреча 6\TeamProgram\TeamProgram\bin\Debug\netcoreapp3.1\TeamProgram.pdb
+D:\Встреча 6\TeamProgram\TeamProgram\obj\Debug\netcoreapp3.1\TeamProgram.csprojAssemblyReference.cache
+D:\Встреча 6\TeamProgram\TeamProgram\obj\Debug\netcoreapp3.1\TeamProgram.AssemblyInfoInputs.cache
+D:\Встреча 6\TeamProgram\TeamProgram\obj\Debug\netcoreapp3.1\TeamProgram.AssemblyInfo.cs
+D:\Встреча 6\TeamProgram\TeamProgram\obj\Debug\netcoreapp3.1\TeamProgram.dll
+D:\Встреча 6\TeamProgram\TeamProgram\obj\Debug\netcoreapp3.1\TeamProgram.pdb
